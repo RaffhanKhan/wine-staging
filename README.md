@@ -1,4 +1,5 @@
 Deprecation Notice
+Version 2.0
 ------------------
 
 As of February 2018, the Wine Staging project has been discontinued by the original
